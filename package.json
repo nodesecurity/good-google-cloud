@@ -1,0 +1,14 @@
+{
+  "name": "good-google-cloud",
+  "version": "1.0.0",
+  "description": "a good plugin for google cloud's stackdriver logging",
+  "main": "lib/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Nathan LaFreniere <quitlahok@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/logging": "^0.8.1",
+    "moment": "^2.18.0"
+  }
+}
