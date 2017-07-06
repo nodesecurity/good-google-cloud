@@ -1,6 +1,6 @@
 {
   "name": "good-google-cloud",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "a good plugin for google cloud's stackdriver logging",
   "main": "lib/index.js",
   "scripts": {},
